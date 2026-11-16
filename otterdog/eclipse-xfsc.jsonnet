@@ -1322,7 +1322,6 @@ orgs.newOrg('technology.xfsc', 'eclipse-xfsc') {
             'charts',
             'official-go / test',
             'semantics',
-            'Licence gate',
             'eclipse-eca-validation:eclipsefdn/eca',
           ],
         },
